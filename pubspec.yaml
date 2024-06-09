@@ -1,5 +1,15 @@
 name: csv2json
-description: A Dart package for converting CSV data to JSON format.
+description: csv2json is a versatile Dart package designed to simplify the conversion 
+of Comma-Separated Values (CSV) data to JavaScript Object Notation (JSON) format. 
+With clean and efficient handling of data transformations, it seamlessly converts CSV 
+data into structured JSON objects, making it ideal for a wide range of applications. 
+Whether you're building Flutter mobile apps, Dart command-line tools, or web 
+applications, csv2json provides a reliable solution for processing CSV data. 
+It automatically trims spaces from headers and values, ensuring clean and consistent 
+JSON output. Developers can easily integrate csv2json into their projects to handle 
+data imports, exports, and transformations, streamlining data management tasks. With 
+csv2json, you can effortlessly convert CSV files to JSON format, empowering your 
+applications with efficient data processing capabilities
 version: 0.0.2
 repository: https://github.com/Colin-Stark/csv2json.git
 homepage: https://github.com/Colin-Stark/csv2json.git

@@ -13,7 +13,11 @@
 ````markdown
 # csv2json
 
-csv2json is a Dart package designed to simplify the process of converting Comma-Separated Values (CSV) data to JavaScript Object Notation (JSON) format. It provides a clean and efficient solution for handling CSV data in Dart applications.
+csv2json is a Dart package designed to simplify the
+process of converting Comma-Separated Values (CSV) data
+to JavaScript Object Notation (JSON) format. It provides
+a clean and efficient solution for handling CSV data in
+Dart applications.
 
 ## Supported Platforms
 
